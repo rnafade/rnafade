@@ -1,0 +1,3 @@
+com\asos\vehicledataservice\model\Vehicle.class
+com\asos\vehicledataservice\resources\VehicleResource.class
+com\asos\vehicledataservice\VehicleDataServiceApplication.class
